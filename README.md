@@ -1,1 +1,1 @@
-# monica
+print('Olá, mundo')
